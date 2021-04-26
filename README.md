@@ -1,3 +1,3 @@
-# hello-world
-Creating my first repository on Github
-each repository must have a REAME file !
+#Hello-World
+##Creating my first repo on Github, but I promise you it won't be the last one :)
+##Every repo must have a README file !
